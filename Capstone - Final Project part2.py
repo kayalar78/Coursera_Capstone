@@ -115,8 +115,8 @@ map_buffalo
 # In[84]:
 
 
-CLIENT_ID = '2HOQYJJ21GVO03ILUUGJGT3OYI5ISPLUW55K31WE1NU3TOHY' # my Foursquare ID
-CLIENT_SECRET = 'SV2XROTJRPQDZOBEHK30PYUXFVVL3TSSDZZE4JIL2KGHGI1M' # my Foursquare Secret
+CLIENT_ID = 'myclientID' # my Foursquare ID
+CLIENT_SECRET = 'myclientsecret' # my Foursquare Secret
 VERSION = '20180605' # Foursquare API version
 LIMIT = 100 # A default Foursquare API limit value
 
